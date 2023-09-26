@@ -1,0 +1,36 @@
+ html, body {
+    height: 100%;
+    background-color: rgb(34, 31, 37);
+    
+ }
+body {
+    font-family: 'Rubik Iso', cursive;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* img:hover{
+    width: 25%;
+
+} */
+
+h1 {
+    color: rgb(91, 76, 120);
+
+}
+
+ p {
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(110, 86, 130);
+   
+ }
+
+ button {
+    color: rgb(49, 29, 60);
+    background-color: rgb(75, 60, 106);
+
+ }
+ 
